@@ -30,11 +30,3 @@ Mohanpur-741246, India.<br>
 [Wordpress](https://digantabiz.wordpress.com/)
 
 -------------------------------
-
-*This website has been created using [R Markdown](http://rmarkdown.rstudio.com/) in [R Studio](https://www.rstudio.com/).* 
-
-*The project is hosted at my [Github](https://github.com/bishwaruppaul/bishwaruppaul.github.io) repository.*
-
-*The website can also be found at <https://bishwaruppaul.github.io/>.*
-
--------------------------------

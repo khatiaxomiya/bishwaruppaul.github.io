@@ -5,7 +5,7 @@ title: "Hello World!"
 -------------------------------------
 <div>
 
-<img style="float:left; margin-right:5%; margin-bottom:5%" src="images/profile_pic.jpg" width = "30%">
+<img style="float:left; margin-right:5%; margin-bottom:2%" src="images/profile_pic.jpg" width = "30%">
 
 ###Hi! My name is Bishwarup Paul.
 
@@ -21,5 +21,14 @@ I did my Bachelor's in Microbiology. But after I experienced the amazing world o
 
 I am a restless person, and get bored very easily. To stop this from happening, I keep myself busy in a lot of things. To know more about me, keep reading!
 </div>
+
+
+-------------------------------
+
+*This website has been created using [R Markdown](http://rmarkdown.rstudio.com/) in [R Studio](https://www.rstudio.com/).* 
+
+*The project is hosted at my [Github](https://github.com/bishwaruppaul/bishwaruppaul.github.io) repository.*
+
+*The website can also be found at <https://bishwaruppaul.github.io/>.*
 
 -------------------------------------
