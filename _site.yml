@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "Bishwarup Paul"
+  left:
+    - text: "About Me"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
