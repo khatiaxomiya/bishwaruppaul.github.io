@@ -1,0 +1,40 @@
+---
+title: "How to contact me"
+---
+
+-------------------------------
+
+###Physical Address:
+
+Bishwarup Paul<br>
+C/o [Dr. Sumana Annagiri](http://www.iiserkol.ac.in/~antlab/principal_investigator.html)<br>
+Room no. 212, Research Complex<br>
+Indian Institute of Science Education and Research (IISER) Kolkata<br>
+Mohanpur-741246, India.<br>
+
+-------------------------------
+
+###Virtual Adress:
+
+**E-mail:** <br>diganta.biz@gmail.com
+
+<br>
+**Scholar Networks:**<br>
+[ResearchGate](https://www.researchgate.net/profile/Bishwarup_Paul2) | 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=xhoyBPEAAAAJ)
+
+<br>
+**Social Networks:**<br>
+[Facebook](https://www.facebook.com/) | 
+[Google+](https://plus.google.com/u/0/+BishwarupPaul2012) | 
+[Wordpress](https://digantabiz.wordpress.com/)
+
+-------------------------------
+
+*This website has been created using [R Markdown](http://rmarkdown.rstudio.com/) in [R Studio](https://www.rstudio.com/).* 
+
+*The project is hosted at my [Github](https://github.com/bishwaruppaul/bishwaruppaul.github.io) repository.*
+
+*The website can also be found at <https://bishwaruppaul.github.io/>.*
+
+-------------------------------

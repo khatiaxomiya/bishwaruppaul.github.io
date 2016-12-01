@@ -1,0 +1,101 @@
+---
+title: "Everything about me"
+---
+
+-------------------------------------
+
+###**Education:**
+
+* **Ph.D. (2013 - present)** <br>
+Under the guidance of Dr. Sumana Annagiri, Behaviour and Ecology Lab, Dept. of Biological Sciences, IISER-Kolkata.
+
+* **M.S. (2011 - 13)** <br>
+Dept. of Biological Sciences, IISER-Kolkata.
+
+* **B.Sc. (2007 - 10)** <br>
+Microbiology (Hons.), Ramakrishna Mission Vidyamandira, University of Calcutta.
+
+* **Higher Secondary (2005 - 07)** <br>
+Belur High School, WBCHSE.
+
+* **Secondary (2005)** <br>
+Uttarpara Model (High) School, WBBSE. 
+
+
+<br>
+
+###**Research Experience:**
+
+* Currently working under the supervision of Dr. Sumana Annagiri (Dept. of Biological Sciences, IISER-Kolkata) on the behaviour, ecology and cognition of ants.
+
+* M.S. dissertation (6 months) under the supervision of Dr. Sumana Annagiri on the impact of stress on nest relocation in ants.
+
+* M.S. dissertation (6 months) under the supervision of Dr. Sankar Maiti (Dept. of Biological Sciences, IISER-Kolkata) on the characterization of actin-binding protein Vgrg-1 from Vibrio cholerae.
+
+* Summer internship under Dr. Sankar Maiti.
+
+* Project during B.Sc. on the tolerance of microorganisms collected from wastelands of Kolkata against nickel chloride.
+
+
+<br>
+
+###**Conferences and Workshops attended:**
+
+* Speciation and the Web of Life (GIAN approved course), 2016, IISER-Tvm, India. 
+
+* I-BEE (India-Behaviour, Ecology & Evolution), 2016 (Oral presentation: ”Intraspeciﬁc brood theft in an Indian queenless ant”), Corbett National Park, Uttarakhand, India.
+
+* Frontiers in Modern Biology, 2015 (Poster presentation: ”Robbing thy Neighbour: A study in an Indian Queenless Ant”), IISER-Kolkata, India.
+
+* National Conference on Ethology and Evolution (39th Annual Meeting of Ethological Society of India), 2015 (Poster presentation: ”Robbing thy Neighbour: A study in an Indian Queenless Ant”), IISER-Mohali, India.
+
+* SERB School in Neuroscience, 8th Edition (Brain Circuits), 2014, IISER-Pune, India.
+
+* Frontiers in Modern Biology, 2013 (Poster presentation: “Stealing the Young: A Case Study in the Indian Queenless Ant”), IISER-Kolkata, India.
+
+
+<br>
+
+###**Academic Activities:**
+
+* **Teaching assistantship:**
+
+    + Biology laboratory X (Animal behaviour) for undergraduate semester VIII, Spring 2016.
+
+    + Biology laboratory VII (Ecology and behaviour) for undergraduate semester VI, Spring 2016.
+
+    + Introduction to Biology II (Evolution) for undergraduate semester II, Spring 2015.
+
+    + Introduction to Biology II (Evolution) for undergraduate semester II, Spring 2014.
+
+
+<br>
+
+###**Awards and Honours:**
+
+* Eligibility for Lectureship by clearing Joint CSIR-UGC Test for Junior Research Fellowship and Eligibility for Lectureship (NET) held on December 2012. 
+
+* INSPIRE-SHE scholarship from Department of Science and Technology (DST), India for Higher studies in Basic and Natural Sciences during the period of 20072010.
+
+
+<br>
+
+###**Computing Skills:**
+
+* Detailed knowledge of Windows and Linux (Ubuntu and derivatives) operating systems. 
+
+* Experience of R, Python, and PERL programming languages.
+
+* Experience of typesetting in LaTeX.
+
+* Experience of creating websites using HTML + CSS and R Markdown. 
+
+* Experience of graphic editing in Adobe Photoshop/GIMP, Adobe Illustrator/Inkscape.
+
+* Experience of basic video and audio editing and transcoding using Avidemux/Openshot, Audacity, FFmpeg etc.
+
+-------------------------------------
+
+*For viewing a pdf version of the resume, please click [here](documents/my_cv.pdf).*
+
+-------------------------------------

@@ -2,10 +2,25 @@ name: "my-website"
 output_dir: "."
 navbar:
   title: "Bishwarup Paul"
-  left:
+  right:
     - text: "About Me"
+      icon: ion-person
       href: index.html
+    - text: "Resume"
+      icon: ion-university
+      href: resume.html
+    - text: "Research"
+      icon: ion-settings
+      href: research.html
+    - text: "Publications"
+      icon: ion-ribbon-b
+      href: publications.html
+    - text: "Contact"
+      icon: ion-android-call
+      href: contact.html
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     highlight: textmate
+    include:
+      after_body: footer.html

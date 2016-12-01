@@ -1,27 +1,25 @@
 ---
-title: "My Homepage"
+title: "Hello World!"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+-------------------------------------
+<div>
 
-## R Markdown
+<img style="float:left; margin-right:5%; margin-bottom:5%" src="images/profile_pic.jpg" width = "30%">
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+###Hi! My name is Bishwarup Paul.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+<br>
 
-```{r cars}
-summary(cars)
-```
+I am currently pursuing my Ph.D. in the Department of Biological Sciences, IISER-Kolkata. I study ants, and try to understand various aspects of these fascinating creatures. 
 
-## Including Plots
+<br>
 
-You can also embed plots, for example:
+I did my Bachelor's in Microbiology. But after I experienced the amazing world of ants and the interest behind studying and understanding them, there was no stopping me. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+<br>
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I am a restless person, and get bored very easily. To stop this from happening, I keep myself busy in a lot of things. To know more about me, keep reading!
+</div>
+
+-------------------------------------
