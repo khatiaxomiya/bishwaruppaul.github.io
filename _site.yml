@@ -17,7 +17,7 @@ navbar:
       href: publications.html
     - text: "Contact"
       icon: ion-android-call
-      href: contact.html
+      href: contactMe.html
 output:
   html_document:
     theme: flatly
