@@ -86,7 +86,7 @@ Uttarpara Model (High) School, WBBSE.
 
 * Detailed knowledge of Windows and Linux (Ubuntu and derivatives) operating systems. 
 
-* Experience of R, Python, and PERL programming languages.
+* Experience of statistical analysis and programming in R.
 
 * Experience of typesetting in LaTeX.
 
@@ -94,7 +94,7 @@ Uttarpara Model (High) School, WBBSE.
 
 * Experience of graphic editing in Adobe Photoshop/GIMP, Adobe Illustrator/Inkscape.
 
-* Experience of basic video and audio editing and transcoding using Avidemux/Openshot, Audacity, FFmpeg etc.
+* Experience of basic video and audio editing and transcoding using Avidemux/Openshot, Handbrake/FFmpeg, Audacity etc.
 
 -------------------------------------
 
