@@ -11,7 +11,9 @@ title: "More details about my work"
 ![](images/paper2.jpg){width=85%}
 
 <br>
-Media coverage of the publication: [Research Matters](https://researchmatters.in/article/scientists-study-kidnappers-ant-society)
+Media coverage of the publication: <br>
+1. [Research Matters](https://researchmatters.in/article/scientists-study-kidnappers-ant-society) <br>
+2. [Livemint: Mint on Sunday](http://www.livemint.com/Sundayapp/gzW6cUolzPS88SGtBZN4GP/When-ant-enslaves-ant.html)
 
 </div>
 
