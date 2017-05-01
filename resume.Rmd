@@ -62,13 +62,13 @@ Uttarpara Model (High) School, WBBSE.
 
 * **Teaching assistantship:**
 
-    + Biology laboratory X (Animal behaviour) for undergraduate semester VIII, Spring 2016.
+    + Biology laboratory X (Animal behaviour) for integrated BS-MS semester VIII, 2016.
 
-    + Biology laboratory VII (Ecology and behaviour) for undergraduate semester VI, Spring 2016.
+    + Biology laboratory VII (Ecology and behaviour) for integrated BS-MS semester VI, 2016.
 
-    + Introduction to Biology II (Evolution) for undergraduate semester II, Spring 2015.
+    + Introduction to Biology II (Evolution) for integrated BS-MS semester II, 2015.
 
-    + Introduction to Biology II (Evolution) for undergraduate semester II, Spring 2014.
+    + Introduction to Biology II (Evolution) for integrated BS-MS semester II, 2014.
 
 
 <br>
@@ -84,17 +84,15 @@ Uttarpara Model (High) School, WBBSE.
 
 ###**Computing Skills:**
 
-* Detailed knowledge of Windows and Linux (Ubuntu and derivatives) operating systems. 
+* **OS:** Windows and Linux (Ubuntu and derivatives). 
 
-* Experience of statistical analysis and programming in R.
+* **Programming:** R, LaTeX, Processing, GitHub.
 
-* Experience of typesetting in LaTeX.
+* **Web design:** HTML + CSS, R Markdown
 
-* Experience of creating websites using HTML + CSS and R Markdown. 
+* **Graphic design:** Adobe Photoshop/GIMP, Adobe Illustrator/Inkscape 
 
-* Experience of graphic editing in Adobe Photoshop/GIMP, Adobe Illustrator/Inkscape.
-
-* Experience of basic video and audio editing and transcoding using Avidemux/Openshot, Handbrake/FFmpeg, Audacity etc.
+* **Media editing:** Avidemux/Openshot, Handbrake/FFmpeg, Audacity etc.
 
 -------------------------------------
 
